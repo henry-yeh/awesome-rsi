@@ -373,6 +373,7 @@ Benchmarks are separated into direct self-improvement evaluations, frontier-lab 
 - [Continual Harness](https://github.com/sethkarten/continual-harness) - Self-improving agent harness that adapts online from experience while maintaining a continuous environment trajectory.
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Self-evolving agent framework for automatically building, evaluating, and optimizing agentic workflows.
 - [EvolveR](https://github.com/KnowledgeXLab/EvolveR) - Self-evolving LLM-agent framework that improves through a closed-loop, experience-driven lifecycle.
+- [harness-zero](https://github.com/metaevo-ai/harness-zero) - Official implementation of Harness-Zero: Harness Distillation via Agent-as-Harness.
 - [Letta Code](https://github.com/letta-ai/letta-code) - Memory-first coding-agent harness whose long-lived agents rewrite context and learn skills from experience.
 - [meta-context-engineering](https://github.com/metaevo-ai/meta-context-engineering) - Official implementation of Meta Context Engineering via Agentic Skill Evolution.
 - [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Self-evolving agent framework that retrieves, evaluates, repairs, and rewrites persistent skills through reflective learning.
