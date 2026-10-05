@@ -393,6 +393,7 @@ Benchmarks are separated into direct self-improvement evaluations, frontier-lab 
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Self-evolving agent framework for automatically building, evaluating, and optimizing agentic workflows.
 - [EvolveR](https://github.com/KnowledgeXLab/EvolveR) - Self-evolving LLM-agent framework that improves through a closed-loop, experience-driven lifecycle.
 - [Gear](https://github.com/rsi-gear/gear) - Uses execution traces and benchmark feedback to iteratively optimize agent prompts, tools, and workflows, retaining versioned harness candidates for later rounds.
+- [harness-zero](https://github.com/metaevo-ai/harness-zero) - Official implementation of Harness-Zero: Harness Distillation via Agent-as-Harness.
 - [Letta Code](https://github.com/letta-ai/letta-code) - Memory-first coding-agent harness whose long-lived agents rewrite context and learn skills from experience.
 - [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Self-evolving agent framework that retrieves, evaluates, repairs, and rewrites persistent skills through reflective learning.
 - [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - MCP server for a hosted persistent-memory engine that re-ranks an agent's recall from reported outcomes, so what helped or misled on one task changes what is returned on later ones.
